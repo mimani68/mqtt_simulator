@@ -3,7 +3,7 @@
 
 MQTT is protocol for IOT connection.
 
-![mqtt logo](https://github.com/mimani68/mqtt_simulator/blob/master/images/MQTT.png)
+![mqtt logo](https://github.com/mimani68/mqtt_simulator/blob/master/images/MQTT.js.png)
  
 In this project we simulate some services and one external MQTT message broker. Client that assume is a single devices, send below topic for SMS sending.
 
